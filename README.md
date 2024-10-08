@@ -8,3 +8,5 @@ This repository demonstrates how to integrate **Serilog** into an ASP.NET Core a
 - File logs are automatically rotated every hour.
 - Limits the size of each log file to 1MB, and rolls over to a new file once the limit is reached.
 - Logs various levels of information (e.g., Debug, Information).
+
+Check out output.png image to see the sample output log file with custom log messages.
